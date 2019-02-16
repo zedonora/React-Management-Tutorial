@@ -9,6 +9,10 @@ In the project directory, you can run:
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## Management System
+
+본 프로젝트는 React 강의 목적으로 만들어진 고객 관리 시스템(Management System)입니다.
+
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
